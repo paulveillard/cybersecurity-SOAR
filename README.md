@@ -6,7 +6,7 @@
 
 
 ## What is SOAR?
-- SOAR stands for security orchestration, automation, and response. 
+- **SOAR stands for security orchestration, automation, and response.**
 SOAR seeks to alleviate the strain on IT teams by incorporating automated responses to a variety of events. A SOAR system can also be programmed to custom-fit an organization’s needs. This gives teams the ability to decide how SOAR can accomplish high-level objectives, such as saving time, reducing the number of IT staff, or freeing up current staff to engage in creative projects.
 
 ![soar](https://github.com/paulveillard/cybersecurity-SOAR/blob/main/img/Security-orchestration-automation-response.png)
