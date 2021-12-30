@@ -1,11 +1,11 @@
-# cybersecurity-SOAR
+# Security Orchestration, Automation and Response (SOAR)
 
-###### The World of Cybersecurity Penetration Testing :
-> A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity penetration testing.
+###### The World of SOAR in Cybersecurity :
+> A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Orchestration, Automation and Response (SOAR).
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
-## Contents
+## Table of Contents
 
 - [Global-Standards](#Global-Standards)
 - [Incident-Categories](#Incident-Categories)
