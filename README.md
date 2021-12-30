@@ -5,6 +5,18 @@
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
+## What is SOAR?
+- SOAR stands for security orchestration, automation, and response. 
+SOAR seeks to alleviate the strain on IT teams by incorporating automated responses to a variety of events. A SOAR system can also be programmed to custom-fit an organization’s needs. This gives teams the ability to decide how SOAR can accomplish high-level objectives, such as saving time, reducing the number of IT staff, or freeing up current staff to engage in creative projects.
+
+![soar](https://github.com/paulveillard/cybersecurity-SOAR/blob/main/img/Security-orchestration-automation-response.png)
+
+## Why SOAR?
+[SOAR](https://www.paloaltonetworks.com/cyberpedia/what-is-soar) combines three software capabilities: 
+ - the management of threats and vulnerabilities, 
+ - responding to security incidents, 
+ - and automating security operations.
+
 ## Table of Contents
 
 - [Global-Standards](#Global-Standards)
