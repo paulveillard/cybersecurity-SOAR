@@ -43,19 +43,19 @@
 - [Integrated Adaptive Cyber Defense (IACD) Automate Framework](https://www.iacdautomate.org/)
 - [OASIS Collaborative Automated Course of Action Operations (CACAO) for Cyber Security](https://www.oasis-open.org/committees/cacao) - a standards effort to define a common language for course of action playbooks
 
-## Incident-Categories
+## `Incident-Categories`
 
 - [ServiceNow Incident Categories and Subcategories](https://docs.servicenow.com/bundle/orlando-it-service-management/page/product/incident-management/reference/r_CategorizingIncidents.html)
 - [Incident Classification/Incident Taxonomy according to eCSIRT.net](https://www.trusted-introducer.org/Incident-Classification-Taxonomy.pdf)
 
-## Process-Resources
+## `Process-Resources`
 
 - [Information Security Incident Management Process Document Template](http://g3ctoolkit.net.s3-website-us-west-2.amazonaws.com/ia/SecPol/wmspDownloads/Information_Security_Incident_Management_Policy.doc)
 - [Incident Response Flowchart](http://www.asu.edu/courses/oasis/Security/Incident_Response_Flowchart.pdf)
 - [Critical Infrastructure Cyber Incident Management Process](https://www.publicpower.org/system/files/documents/Public-Power-Cyber-Incident-Response-Playbook.pdf)
 - [SANS Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/paper/33901)
 
-## Playbooks-Resources
+## `Playbooks-Resources`
 
 - [Playbooks in Visio and PDF](https://www.incidentresponse.com/playbooks/)
 - [Top 5 Playbooks by Ayehu](https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/)
@@ -63,7 +63,7 @@
 - [Playbooks by guardsight](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
 - [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
 
-## Automation-Resources
+## `Automation-Resources`
 
 - [Playbooks Automation components by Phantom](https://github.com/phantomcyber/playbooks)
 - [Playbooks Automation components part 2 by Phantom](https://github.com/phantomcyber/phantom-apps/tree/next/Apps)
@@ -84,7 +84,7 @@
 - [Playbooks Automation components by WALKOFF](https://github.com/nsacyber/WALKOFF/tree/master/apps)
 - [Playbooks Automation components by LogRhythm](https://github.com/LogRhythm-Labs)
 
-## User-Communities
+## `User-Communities`
 
 - [SOAR Telegram Group](http://t.me/CSOAR)
 
