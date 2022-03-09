@@ -17,7 +17,7 @@
  - responding to security incidents, 
  - and automating security operations.
 
-## Table of Contents
+## `Table of Contents`
 
 - [Global-Standards](#Global-Standards)
 - [Incident-Categories](#Incident-Categories)
@@ -34,7 +34,7 @@
     - [SIEM-with-SOAR-Included](#SIEM-with-SOAR-Included)
     - [Open-Source](#Open-Source)
     
-## Global-Standards
+## `Global-Standards`
 
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [NIST Computer Security Incident Handling Guide](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
