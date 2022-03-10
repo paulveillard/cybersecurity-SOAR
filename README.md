@@ -121,11 +121,11 @@
 
 - [SANS SEC573: Automating Information Security with Python](https://www.sans.org/course/automating-information-security-with-python)
 
-## Contribute
+##  `Contribute `
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-# SOAR-Solutions
+#  `SOAR-Solutions `
 
 - [Commercial](#Commercial)
 - [SIEM-with-SOAR-Included](#SIEM-with-SOAR-Included)
